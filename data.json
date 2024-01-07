@@ -1,0 +1,136 @@
+[
+    
+    
+    
+    
+    
+    {
+      "product_name": "Eggs",
+      "product_desc": "Farm-fresh eggs",
+      "product_price": 28,
+      "product_brand": "Happy Hen Farms",
+      "product_stock": 40,
+      "product_img": "image_link_here",
+      "product_category": "dairy"
+    },
+    {
+      "product_name": "Pasta",
+      "product_desc": "Versatile pasta for various dishes",
+      "product_price": 18,
+      "product_brand": "Italian Delight",
+      "product_stock": 30,
+      "product_img": "image_link_here",
+      "product_category": "grocery"
+    },
+    {
+      "product_name": "Yogurt",
+      "product_desc": "Creamy and probiotic-rich yogurt",
+      "product_price": 22,
+      "product_brand": "Cultured Goodness",
+      "product_stock": 25,
+      "product_img": "image_link_here",
+      "product_category": "dairy"
+    },
+    {
+      "product_name": "Chicken Breast",
+      "product_desc": "Lean and protein-packed chicken breast",
+      "product_price": 45,
+      "product_brand": "Premium Poultry",
+      "product_stock": 15,
+      "product_img": "image_link_here",
+      "product_category": "meat"
+    },
+    {
+      "product_name": "Apples",
+      "product_desc": "Crisp and refreshing apples",
+      "product_price": 28,
+      "product_brand": "Orchard Fresh",
+      "product_stock": 40,
+      "product_img": "image_link_here",
+      "product_category": "fruit"
+    },
+    {
+      "product_name": "Olive Oil",
+      "product_desc": "Extra virgin olive oil for cooking",
+      "product_price": 35,
+      "product_brand": "Mediterranean Gold",
+      "product_stock": 20,
+      "product_img": "image_link_here",
+      "product_category": "grocery"
+    },
+    {
+      "product_name": "Potatoes",
+      "product_desc": "Versatile and hearty potatoes",
+      "product_price": 12,
+      "product_brand": "",
+      "product_stock": 50,
+      "product_img": "image_link_here",
+      "product_category": "vegetable"
+    },
+    {
+      "product_name": "Cheese",
+      "product_desc": "Assorted cheese selection",
+      "product_price": 30,
+      "product_brand": "Dairy Delights",
+      "product_stock": 25,
+      "product_img": "image_link_here",
+      "product_category": "dairy"
+    },
+    {
+      "product_name": "Salmon Fillet",
+      "product_desc": "Fresh and flavorful salmon fillet",
+      "product_price": 55,
+      "product_brand": "Ocean Harvest",
+      "product_stock": 18,
+      "product_img": "image_link_here",
+      "product_category": "seafood"
+    },
+    {
+      "product_name": "Carrots",
+      "product_desc": "Crunchy and nutritious carrots",
+      "product_price": 10,
+      "product_brand": "",
+      "product_stock": 35,
+      "product_img": "image_link_here",
+      "product_category": "vegetable"
+    },
+    {
+      "product_name": "Honey",
+      "product_desc": "Pure and natural honey",
+      "product_price": 25,
+      "product_brand": "Golden Harvest",
+      "product_stock": 28,
+      "product_img": "image_link_here",
+      "product_category": "sweetener"
+    },
+    {
+      "product_name": "Cucumber",
+      "product_desc": "Cool and hydrating cucumber",
+      "product_price": 15,
+      "product_brand": "",
+      "product_stock": 40,
+      "product_img": "image_link_here",
+      "product_category": "vegetable"
+    },
+    {
+      "product_name": "Ground Coffee",
+      "product_desc": "Rich and aromatic ground coffee",
+      "product_price": 30,
+      "product_brand": "Morning Brew",
+      "product_stock": 22,
+      "product_img": "image_link_here",
+      "product_category": "beverage"
+    },
+    {
+      "product_name": "Onions",
+      "product_desc": "Essential cooking ingredient",
+      "product_price": 8,
+      "product_brand": "",
+      "product_stock": 45,
+      "product_img": "image_link_here",
+      "product_category": "vegetable"
+    }
+  ]
+  
+
+
